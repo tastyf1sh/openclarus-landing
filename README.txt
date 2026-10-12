@@ -1,5 +1,3 @@
-Clarus Hospitality Ltd — website concept (not deployed)
-Open index.html in a browser to preview.
-Do not publish privacy.html or terms.html as final legal policies: both contain clearly marked placeholders.
-Before launch: verify company registration number, legal copy, image rights, feature claims, contact routing, and domain configuration.
-No DNS, Railway, Render or GitHub changes have been made.
+Clarus Hospitality Ltd public website — review build 12 October 2026.
+Upload index.html, privacy.html, terms.html, style.css and assets/ to the root of tastyf1sh/openclarus-landing. Do NOT upload INTERNAL-COMPLIANCE-NOTES.txt to the public repository.
+Legal pages are tailored drafts, not a solicitor certification. Complete internal checklist and verify provider processing terms.
